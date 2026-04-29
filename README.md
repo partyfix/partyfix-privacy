@@ -1,2 +1,0 @@
-# partyfix-privacy
-Privacy Policy
