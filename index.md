@@ -47,5 +47,13 @@ Je kunt er zelf voor kiezen om een opgeslagen locatie (inclusief coördinaten en
 7. Kinderen
 PartyFix is bedoeld voor gebruikers van 18 jaar en ouder.
 
+8. Gegevensverwijdering (Data Deletion)
+Gebruikers hebben volledige controle over hun gegevens in PartyFix. Omdat alle data uitsluitend lokaal op jouw apparaat wordt opgeslagen, kun je jouw gegevens op de volgende manieren verwijderen:
+•
+Individuele gegevens: In het 'Finder' scherm kun je elke opgeslagen locatie en bijbehorende foto handmatig verwijderen door op het prullenbak-icoontje te tikken.
+•
+Alle gegevens: Je kunt alle door de app opgeslagen gegevens (instellingen, favorieten, locaties en foto's) in één keer verwijderen door de app van je toestel te deïnstalleren of via de Android-instellingen de 'Opslag/Cache' van de app te wissen.
+Omdat wij geen gegevens op onze servers bewaren, is er na het verwijderen van de app geen data meer van jou bij ons aanwezig. 
+
 9. Contact
 Vragen over dit privacybeleid? Neem contact op via: partyfix@proton.me.
