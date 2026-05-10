@@ -19,7 +19,11 @@ PartyFix is ontworpen met privacy als uitgangspunt. Wij verzamelen geen persoonl
 
 Wij hebben geen toegang tot deze gegevens, verkopen deze niet en gebruiken geen tracking- of advertentienetwerken.
 
-3. Internetverbinding
+3. Gebruik van Firebase
+
+PartyFix maakt gebruik van Firebase van Google LLC voor het verzenden van pushnotificaties. Alle optionele gegevensverzameling is uitgeschakeld. Er worden geen persoonsgegevens verzameld of door ons ontvangen. Meer informatie: https://policies.google.com/privacy
+
+4. Internetverbinding
 
 De app maakt verbinding met de volgende bronnen om content te laden:
 
@@ -31,11 +35,11 @@ De app maakt verbinding met de volgende bronnen om content te laden:
 
 • Spotify: Alleen wanneer jij actief de knop gebruikt om een artiest op te zoeken.
 
-4. Affiliate-links
+5. Affiliate-links
 
 Sommige ticketlinks in PartyFix zijn affiliate-links. Als je via zo'n link een ticket koopt, ontvangen wij mogelijk een kleine commissie. Dit brengt geen extra kosten voor jou met zich mee.
 
-5. Toestemmingen (Permissions)
+6. Toestemmingen (Permissions)
 
 Om de functies van de app mogelijk te maken, vragen wij om de volgende toestemmingen:
 
@@ -47,15 +51,15 @@ Om de functies van de app mogelijk te maken, vragen wij om de volgende toestemmi
 
 • Meldingen: Om je herinneringen te sturen voor optredens in je persoonlijke planning.
 
-6. Gegevens delen door de gebruiker
+7. Gegevens delen door de gebruiker
 
 Je kunt er zelf voor kiezen om een opgeslagen locatie (inclusief coördinaten en foto) te delen met derden via de 'Deel'-knop (bijv. via WhatsApp). PartyFix deelt nooit automatisch gegevens; dit gebeurt uitsluitend op jouw initiatief.
 
-7. Kinderen
+8. Kinderen
 
 PartyFix is bedoeld voor gebruikers van 18 jaar en ouder.
 
-8. Gegevensverwijdering (Data Deletion)
+9. Gegevensverwijdering (Data Deletion)
 
 Gebruikers hebben volledige controle over hun gegevens in PartyFix. Omdat alle data uitsluitend lokaal op jouw apparaat wordt opgeslagen, kun je jouw gegevens op de volgende manieren verwijderen:
 
@@ -65,6 +69,6 @@ Gebruikers hebben volledige controle over hun gegevens in PartyFix. Omdat alle d
 
 Wij bewaren geen gegevens van jou op onze servers, dus er valt simpelweg niks weg te halen.
 
-9. Contact
+10. Contact
 
 Vragen over dit privacybeleid? Neem contact op via: partyfix@proton.me.
