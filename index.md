@@ -63,7 +63,7 @@ Gebruikers hebben volledige controle over hun gegevens in PartyFix. Omdat alle d
 
 • Alle gegevens: Je kunt alle door de app opgeslagen gegevens (instellingen, favorieten, locaties en foto's) in één keer verwijderen door de app van je toestel te deïnstalleren of via de Android-instellingen de 'Opslag/Cache' van de app te wissen.
 
-Omdat wij geen gegevens op onze servers bewaren, is er na het verwijderen van de app geen data meer van jou bij ons aanwezig. 
+Wij bewaren geen gegevens van jou op onze servers, dus er valt simpelweg niks weg te halen.
 
 9. Contact
 
