@@ -1,6 +1,6 @@
 # PRIVACYBELEID — PartyFix
 
-**Laatst bijgewerkt: 11 mei 2026**
+**Laatst bijgewerkt: 12 mei 2026**
 
 ---
 
@@ -23,30 +23,13 @@ Wij hebben geen toegang tot deze gegevens, verkopen deze niet en gebruiken geen 
 
 ---
 
-## 3. Vrienden vinden (Buddy-functie)
-
-PartyFix heeft een optionele functie waarmee je andere PartyFix-gebruikers in de buurt kunt vinden. Deze functie is **standaard uitgeschakeld**. Je wordt alleen zichtbaar als je daar zelf actief voor kiest.
-
-Als je de functie inschakelt:
-
-- Kies je een tijdelijke nickname. Deze nickname wordt **nooit opgeslagen op een server**. 
-- Worden maximaal 3 geplande artiesten uit je Planner gedeeld met gebruikers die dezelfde sessiecode gebruiken.
-- Wordt je **GPS-locatie nooit gedeeld** — de Buddy-functie zendt geen coördinaten uit.
-- Verloopt de sessie automatisch na de door jou gekozen tijdsduur (maximaal 60 minuten).
-- Verloopt de verbinding uitsluitend via **Bluetooth en Wi-Fi Direct (Peer-to-Peer)**. Er is geen server betrokken; gegevens gaan rechtstreeks van toestel naar toestel.
-- Wordt er een eenmalige, willekeurige sessiecode aangemaakt die alleen jij en jouw vrienden kennen. Deze code is niet herleidbaar tot jouw identiteit.
-
-Voor gebruik van de Buddy-functie vraagt de app om toestemming voor Bluetooth en (op Android 12 en lager) locatie. Dit is een technische vereiste van het Android-besturingssysteem voor Bluetooth-scanning; je GPS-locatie wordt door PartyFix **niet** uitgelezen of opgeslagen voor dit doel.
-
----
-
-## 4. Gebruik van Firebase
+## 3. Gebruik van Firebase
 
 PartyFix maakt gebruik van Firebase van Google LLC voor het verzenden van pushnotificaties. Alle optionele gegevensverzameling is uitgeschakeld. Er worden geen persoonsgegevens verzameld of door ons ontvangen. Meer informatie: https://policies.google.com/privacy
 
 ---
 
-## 5. Internetverbinding
+## 4. Internetverbinding
 
 De app maakt verbinding met de volgende bronnen om content te laden:
 
@@ -57,37 +40,36 @@ De app maakt verbinding met de volgende bronnen om content te laden:
 
 ---
 
-## 6. Affiliate-links
+## 5. Affiliate-links
 
-Sommige ticketlinks in PartyFix zijn affiliate-links. Als je via zo'n link een ticket koopt, ontvangen wij mogelijk een kleine commissie. Dit brengt geen extra kosten voor jou met zich mee.
+Sommige ticketlinks in PartyFix zijn affiliate-links. Als je via zo'n link een ticket koopt, ontvangen wij mogelijk een kleine commissie. Dit brengt geen extra kosten voor jou met zich mee en support PartyFix.
 
 ---
 
-## 7. Toestemmingen (Permissions)
+## 6. Toestemmingen 
 
 Om de functies van de app mogelijk te maken, vragen wij om de volgende toestemmingen:
 
 - **Locatie (Precise Location):** Nodig om je huidige positie te bepalen t.o.v. je opgeslagen plekken (Finder), de afstand te berekenen en de kompas-pijl te laten werken.
-- **Camera:** Gebruikt wanneer je zelf een foto wilt toevoegen aan een opgeslagen locatie, of wanneer je een QR-code van een vriend wilt scannen om de Buddy-functie te activeren.
-- **Bluetooth:** Nodig voor de optionele Buddy-functie om andere PartyFix-gebruikers in de buurt te vinden via Bluetooth en Wi-Fi Direct.
+- **Camera:** Gebruikt wanneer je zelf een foto wilt toevoegen aan een opgeslagen locatie in de Finder.
 - **Internettoegang:** Om de festival-feed en afbeeldingen op te halen.
 - **Meldingen:** Om je herinneringen te sturen voor optredens in je persoonlijke planning.
 
 ---
 
-## 8. Gegevens delen door de gebruiker
+## 7. Gegevens delen door de gebruiker
 
 Je kunt er zelf voor kiezen om een opgeslagen locatie (inclusief coördinaten en foto) te delen met derden via de 'Deel'-knop (bijv. via WhatsApp). PartyFix deelt nooit automatisch gegevens; dit gebeurt uitsluitend op jouw initiatief.
 
 ---
 
-## 9. Kinderen
+## 8. Kinderen
 
 PartyFix is bedoeld voor gebruikers van 18 jaar en ouder.
 
 ---
 
-## 10. Gegevensverwijdering (Data Deletion)
+## 9. Gegevensverwijdering (Data Deletion)
 
 Gebruikers hebben volledige controle over hun gegevens in PartyFix. Omdat alle data uitsluitend lokaal op jouw apparaat wordt opgeslagen, kun je jouw gegevens op de volgende manieren verwijderen:
 
@@ -98,6 +80,6 @@ Wij bewaren geen gegevens van jou op onze servers, dus er valt simpelweg niks we
 
 ---
 
-## 11. Contact
+## 10. Contact
 
 Vragen over dit privacybeleid? Neem contact op via: partyfix@proton.me
