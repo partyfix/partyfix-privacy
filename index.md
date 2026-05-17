@@ -37,6 +37,7 @@ De app maakt verbinding met de volgende bronnen om content te laden:
 - **Ticketmaster API:** Voor actuele evenementeninformatie. Eventdata wordt tijdelijk gecached op je toestel.
 - **Unsplash:** Voor algemene sfeerafbeeldingen bij evenementen.
 - **Spotify:** Alleen wanneer jij actief de knop gebruikt om een artiest op te zoeken.
+- **Tidal:** Alleen wanneer jij actief de knop gebruikt om een artiest op te zoeken.
 
 ---
 
