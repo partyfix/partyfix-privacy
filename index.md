@@ -1,6 +1,6 @@
 # PRIVACYBELEID — PartyFix
 
-**Laatst bijgewerkt: 12 mei 2026**
+**Laatst bijgewerkt: 17 mei 2026**
 
 ---
 
