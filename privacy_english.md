@@ -35,7 +35,7 @@ The app connects to the following sources to load content:
 
 - **DJGuide:** To load the latest festival data on a daily basis.
 - **Ticketmaster API:** For up-to-date event information. Event data is temporarily cached on your device.
-- **Unsplash:** For general atmosphere images accompanying events.
+- **Tidal:** Only when you actively use the button to look up an artist.
 - **Spotify:** Only when you actively use the button to look up an artist.
 
 ---
