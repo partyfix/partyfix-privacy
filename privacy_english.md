@@ -1,6 +1,6 @@
 # PRIVACY POLICY — PartyFix
 
-**Last updated: May 12, 2026**
+**Last updated: May 18, 2026**
 
 ---
 
